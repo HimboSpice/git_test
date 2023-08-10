@@ -1,2 +1,3 @@
 Holy Sheet! I think I'm starting to understand this stuff!
 Day 2 - Opened and edited a txt file of a pre-existing repository
+I've now edited and saved txt file in VSC, using the terminal below.
